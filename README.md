@@ -1,0 +1,2 @@
+# lsko
+servidor de minecraf
